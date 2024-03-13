@@ -1,0 +1,146 @@
+
+
+/* responsive */
+@media (max-width: 1550px) {
+  .zubaz-default-content2 h2{
+      font-size: 52px;
+  }
+}
+@media (max-width: 1199px) {
+  .zubaz-menu ul li a{
+      font-size: 15px;
+  }
+  .zubaz-default-content h2{
+      font-size: 56px;
+  }
+  .zubaz-cta-wrap{
+      display: block;
+  }
+  .zubaz-demos-thumb{
+      display: none;
+  }
+  .zubaz_screenfix_left {
+      margin-left: auto;
+      max-width: 100%;
+  }
+  .zubaz-default-content2 {
+      text-align: center;
+      max-width: 750px;
+      margin: 0 auto;
+  }
+  .zubaz-cta-section {
+      padding: 130px 0;
+  }
+}
+@media (max-width: 991px) {
+  .zubaz-menu {
+      margin-top: 30px;
+  }
+  .zubaz-hero-content{
+      margin-bottom: 40px;
+  }
+  .zubaz-hero-content p{
+      font-size: 20px;
+      margin: 0 auto 30px;
+  }
+  .zubaz-section-title{
+      padding-bottom: 60px;
+      text-align: center;
+  }
+  .zubaz-section-padding {
+      padding: 100px 0;
+  }
+  .zubaz-section-padding2 {
+      padding: 0 0 100px;
+  }
+  .zubaz-section-padding3{
+      padding: 100px 0 76px;
+  }
+  .zubaz-demos-section{
+      padding: 0 0 70px;
+  }
+  .zubaz-demos-item {
+      margin-bottom: 30px;
+  }
+  .zubaz-inner-section {
+      padding: 100px 0 0;
+  }
+  .zubaz-list{
+      margin-top: 30px;
+  }
+  .zubaz-default-content h2{
+      font-size: 48px;
+  }
+  .zubaz-mt{
+      margin-top: 30px;
+  }
+  .zubaz-cta-section {
+      padding: 100px 0;
+  }
+  .zubaz-default-content2 h2 {
+      font-size: 48px;
+  }
+  .zubaz-t-section {
+      padding-bottom: 76px;
+  }
+  .zubaz-footer-top{
+    padding: 100px 0 65px;
+  }
+  .zubaz-default-thumb {
+    margin-bottom: 40px;
+}
+}
+
+@media (max-width: 767px) {
+  .zubaz-section-title{
+      padding-bottom: 40px;
+  }
+  .zubaz-default-content h2{
+      font-size: 36px;
+  }
+  .zubaz-section-padding {
+      padding: 80px 0;
+  }
+  .zubaz-section-padding2 {
+      padding: 0 0 80px;
+  }
+  .zubaz-section-padding3{
+      padding: 80px 0 56px;
+  }
+  .zubaz-demos-section{
+      padding: 0 0 50px;
+  }
+  .zubaz-inner-section {
+      padding: 80px 0 0;
+  }
+  .zubaz-list ul{
+      column-count: 1;
+      display: flex;
+      flex-direction: column;
+  }
+  .zubaz-list ul li:last-child{
+      margin-bottom: 0;
+  }
+  .zubaz-cta-section {
+      padding: 80px 0;
+  }
+  .zubaz-default-content2 h2 {
+      font-size: 36px;
+  }
+  .zubaz-t-section {
+      padding-bottom: 56px;
+  }
+  .zubaz-footer-top{
+    padding: 80px 0 50px;
+  }
+}
+
+@media (max-width: 575px) {
+.w_50{
+  width: 50%;
+}
+.zubaz-header-btn {
+  padding: 8px 20px;
+}
+
+}
